@@ -1,1 +1,5 @@
 traindata.npy
+Training data/
+*.csv
+*.zip
+*.npy
